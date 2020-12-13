@@ -4,10 +4,7 @@ import { BrowserRouter as Router} from "react-router-dom";
 import Nav from './components/Nav';
 import Heading from './components/SectionHeading'
 import Main from './components/Main'
-// import About from './pages/About';
-// import Portfolio from './pages/Portfolio'
-// import Contact from './pages/Contact'
-// import './App.css';
+import './App.css';
 
 function App() {
   return <Router>

@@ -31,7 +31,7 @@ export default function CenteredGrid() {
           <Paper className={classes.paper}>
               <h1> About Me </h1>
               <img className={classes.img} alt="Karuna" src="\Images\photo.jpg"/>
-              <p >I grew up in Seattle, WA and recieved a degree in Associates of Arts and Science from Bellevue College, as well as a degree in Funeral Service Education from Lake Washington Technical Institute. I previously worked in the medical field, funeral industry, and most recently in the financial industry. I have always had a curiousity in the tech industry and am in the process of becoming a full-stack web developer through the University of Washington Coding Bootcamp. I am eager to pursue a new career in tech in the near future.</p>
+              <p >I grew up in Seattle, WA and recieved a degree in Associates of Arts and Science from Bellevue College, as well as a degree in Funeral Service Education from Lake Washington Technical Institute. I previously worked in the medical field, funeral industry, and most recently in the financial industry. I have always had a curiousity in the tech industry and am recent graduate of the University of Washington Coding Bootcamp. I am eager to pursue a new career in tech.</p>
               
           </Paper>
           <div className="overlay" style={{width:"100%", position:"relative",top:"-50vh",height: "100%", background:"black", opacity:"0"}}></div>
@@ -106,7 +106,7 @@ export default function CenteredGrid() {
           <Paper className={classes.paper}>
               <h1>Book Face</h1>
               <img className={classes.img} alt="Book Face" src="\Images\BookFace.PNG"/>
-              <p>his is my second collaborative project. BookFace is a study app geared towards beginner devs that are looking for resources on web development. It features different subjects/languages that will give users a list of book and video resources.</p>
+              <p>This is my second collaborative project. BookFace is a study app geared towards beginner devs that are looking for resources on web development. It features different subjects/languages that will give users a list of book and video resources.</p>
               <li>Languages Used: Node Express/ JavaScript/ Handlebars/MySQL/ Passport/ CSS</li>
               <li>Link:<a href="https://bookface2020.herokuapp.com/">https://bookface2020.herokuapp.com/</a></li>
           </Paper>
